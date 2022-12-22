@@ -1,4 +1,4 @@
-# seriLogWithElasticSearch
+# SeriLog With ElasticSearch
 
 Logging every exception with Serilog to Elasticsearch. After that we can use Kibana to search and filter for logs.
 
